@@ -29,5 +29,5 @@ jobs:
         with:
           pull: true
           push: true
-          tags: ${{ secrets.DOCKERHUB_USER }}tallu/rockylinux8-openjdk11
+          tags: ${{ secrets.DOCKERHUB_USER }}/rockylinux8-openjdk11
 
